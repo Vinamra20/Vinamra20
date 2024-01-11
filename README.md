@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinamra20
-- 👀 I’m interested in Programming in Python, C++
+- 👀 I’m interested in Programming in Python, C++, ReactJS, Salesforce, AWS.
 - 🌱 I’m currently learning B.Tech (AI&ML) from VIT-BHOPAL      
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me vinamra.rawat2021@vitbhopal.ac.in
