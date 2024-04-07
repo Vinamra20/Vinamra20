@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Vinamra20
-- 👀 I’m interested in Programming in Python, C++, ReactJS, Salesforce, AWS.
-- 🌱 I’m currently learning B.Tech (AI&ML) from VIT-BHOPAL      
-- 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach me vinamra.rawat2021@vitbhopal.ac.in
+
+👋 Greetings, I'm @Vinamra20, a proficient programmer specializing in Python, C++, ReactJS, Salesforce, and AWS. 
+Currently pursuing a B.Tech in AI&ML at VIT-BHOPAL, I'm deeply committed to advancing my skills and contributing to impactful projects. 
+I am actively seeking collaborations on web-based initiatives where I can apply my expertise effectively. 
+For inquiries or collaboration opportunities, kindly reach out to me at vinamrarawatit5@gmail.com.
+Let's connect and create meaningful solutions together. 🚀
 
 <!---
 Vinamra20/Vinamra20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
